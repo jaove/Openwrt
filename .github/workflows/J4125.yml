@@ -2,6 +2,7 @@ name: J4125
 
 on:
   repository_dispatch:
+  workflow_dispatch:
 #  release:
 #    types: published
   push:
